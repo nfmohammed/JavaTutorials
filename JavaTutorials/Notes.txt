@@ -1,0 +1,5 @@
+Pending Implementation
+1. HashMapVSHashTable
+2. Pointers - no pointers in java
+3. Doubly linked list
+4. sorting and searching algorithms
