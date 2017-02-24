@@ -2,10 +2,12 @@ package tutorials;
 
 public class HelloWorld {
 	
-	//Type Main and press Ctrl+Space to autofill
+	//eclispse: Type Main and press Ctrl+Space to autofill
+	//idea: type psvm and press Ctrl + Space to autofill
 	public static void main(String[] args) {
 		
-		//type syso and press Ctrl+Space to autofill
+		//eclispe: type syso and press Ctrl+Space to autofill
+		//idea: type syso and press Ctrl + Space to autofill
 		System.out.println("Hello World");
 		
 	}
