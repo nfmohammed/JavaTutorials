@@ -1,4 +1,4 @@
-package tutorials.aal.file_systems;
+package basics.aal.file_systems;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -11,14 +11,14 @@ import java.util.Map;
 public class FileSystemsTest {
 	
 	public static void main(String[] args) {
-		FileSystemsTest fst = new FileSystemsTest();
+		// FileSystemsTest fst = new FileSystemsTest();
 		collectDataFromFileAndPutIntoMap("FileSystemData.txt");
 	}
 	
 	public static void collectDataFromFileAndPutIntoMap(String fname)
 	{
 		Map<String,Integer> m=new HashMap<String,Integer>();
-		String filePath = System.getProperty("user.dir") + "/src/tutorials/aal/file_systems/" + fname;
+		String filePath = System.getProperty("user.dir") + "/src/basics/aal/file_systems/" + fname;
 		File f=new File(filePath);
 		try {
 			BufferedReader br=new BufferedReader(new FileReader(f));

@@ -1,4 +1,4 @@
-package tutorials.aaj.queues;
+package basics.aaj.queues;
 
 import java.util.PriorityQueue;
 

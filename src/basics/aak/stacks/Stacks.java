@@ -1,4 +1,4 @@
-package tutorials.aak.stacks;
+package basics.aak.stacks;
 
 import java.util.Stack;
 

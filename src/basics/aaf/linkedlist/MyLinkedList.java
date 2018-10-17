@@ -36,7 +36,8 @@ class MyLinkedList{
 		MyLink theLink = firstLink;
 		while(theLink!=null){
 			theLink.display();
-			System.out.println("Next Linke : "+theLink.next);
+			System.out.println("Next Link : "+theLink.next);
+			System.out.println("---------------------");
 			theLink = theLink.next;
 		}
 	}

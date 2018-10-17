@@ -8,7 +8,7 @@
  * The output of hashfunction returns address in memory where this key-value pair to be stored.
  */
 
-package tutorials.aag.hashtable;
+package basics.aag.hashtable;
 
 import java.util.Hashtable;
 
@@ -21,19 +21,20 @@ public class MyHashTable {
 		hashTable.put("Four", 4);
 		hashTable.put("five", 5);
 		System.out.println("Below prints out the key - value pair");
-		printHashTable(hashTable);
+		printHashTable(hashTable);//Hashtable does not get printed sequentially
 		
 		System.out.println();
 		System.out.println("Below will overwrite the key \"five\" with value 50");
 		hashTable.put("five", 50);
-		printHashTable(hashTable);
+		printHashTable(hashTable);//Hashtable does not get printed sequentially
+
 		
 	}
 	
-	
-	private static void printHashTable(Hashtable<String, Integer> ht){
-		for(String key:ht.keySet()){
-			System.out.println("Key:"+key+"	-	Value:"+ht.get(key));
+	private static void printHashTable(Hashtable<String, Integer> ht) {
+		for(String key:ht.keySet()) {
+			System.out.print("Key:"+key+" - Value:"+ht.get(key));
+			System.out.println();
 		}
 	}
 	

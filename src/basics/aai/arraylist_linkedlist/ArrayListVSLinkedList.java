@@ -10,7 +10,7 @@
  * Searching ListList is time consuming.
  */
 
-package tutorials.aai.arraylist_linkedlist;
+package basics.aai.arraylist_linkedlist;
 
 import java.util.*;
 

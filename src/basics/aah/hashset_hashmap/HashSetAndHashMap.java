@@ -1,4 +1,4 @@
-package tutorials.aah.hashset_hashmap;
+package basics.aah.hashset_hashmap;
 import java.util.HashMap;
 import java.util.HashSet;
 
@@ -68,14 +68,4 @@ public class HashSetAndHashMap {
 		
 		
 	}
-
-
-	public static class HashMapVSHashTable {
-
-    public static void main(String[] args) {
-      // TODO Auto-generated method stub
-      //Need to comeup with comparison between hashmap vs hashtable
-    }
-
-  }
 }
