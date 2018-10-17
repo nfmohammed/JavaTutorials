@@ -1,4 +1,4 @@
-package tutorials.aae.conditionals;
+package basics.aae.conditionals;
 
 public class Conditionals {
 

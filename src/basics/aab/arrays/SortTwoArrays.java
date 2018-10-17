@@ -3,7 +3,7 @@ import java.util.Arrays;
 
 /*Give 2 arrays of size 7 and 3 which are sorted such that the last 3 blocks in first array are empty, merge the arrays in a sorted manner in the most efficient way.
 E.g:-
-a[7] = [4, 10, 11, 20__, __, __]
+a[7] = [4, 10, 11, 20, __, __, __]
 b[3] = [1,3,7]*/
 
 //Solution: We will use the last box in array A as the intermediate swapping box.

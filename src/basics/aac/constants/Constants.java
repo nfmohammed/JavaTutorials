@@ -1,4 +1,4 @@
-package tutorials.aac.constants;
+package basics.aac.constants;
 
 public class Constants {
 	

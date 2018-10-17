@@ -1,5 +1,7 @@
-package tutorials.aad.arraylist;
+package basics.aad.arraylist;
 import java.util.ArrayList;
+import java.util.List;
+import java.util.Arrays;
 
 
 public class ArrayListDemo {
@@ -20,12 +22,14 @@ public class ArrayListDemo {
 		// TODO Auto-generated method stub
 		String[] string1 = {"HIE","Dogiie","Rock"};
 		String[] string2 = {"Blackboard","Testing"};
-		
-
 		ArrayList<String> m = mergeString(string1,string2);
-		
 		System.out.println(m);
-		
+
+		//converting arrays into arraylist
+		String[] colors = {"red", "blue", "green"};
+		List<String> colorsList = Arrays.asList(colors);
+		System.out.println(colorsList);
+ 		
 	}
 
 }

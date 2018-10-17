@@ -1,4 +1,4 @@
-package tutorials.aaf.linkedlist;
+package basics.aaf.linkedlist;
 
 public class MyLink {
 	
