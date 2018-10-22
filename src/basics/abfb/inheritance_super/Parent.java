@@ -1,4 +1,4 @@
-package tutorials.abfb.inheritance_super;
+package basics.abfb.inheritance_super;
 
 /**
  * Created by nmohammed on 2/24/17.

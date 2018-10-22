@@ -1,4 +1,4 @@
-package tutorials.aaa.variables;
+package basics.aaa.variables;
 
 public class PrimitiveTypes {
 

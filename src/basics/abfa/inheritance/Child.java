@@ -1,4 +1,4 @@
-package tutorials.abfa.inheritance;
+package basics.abfa.inheritance;
 
 //Tutorial for Inheritance
 public class Child extends Parent {

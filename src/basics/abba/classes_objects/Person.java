@@ -1,4 +1,4 @@
-package tutorials.abba.classes_objects;
+package basics.abba.classes_objects;
 
 //This is Class: Person
 public class Person {

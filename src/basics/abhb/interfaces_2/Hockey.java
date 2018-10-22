@@ -1,4 +1,4 @@
-package tutorials.abhb.interfaces_2;
+package basics.abhb.interfaces_2;
 
 //example of interface extending another interface
 public interface Hockey extends Sports {

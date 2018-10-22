@@ -1,4 +1,4 @@
-package tutorials.abhb.interfaces_2;
+package basics.abhb.interfaces_2;
 
 public class MultiInterfaceTest {
   public static void main(String[] args) {

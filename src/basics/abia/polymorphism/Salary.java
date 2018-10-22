@@ -1,4 +1,4 @@
-package tutorials.abia.polymorphism;
+package basics.abia.polymorphism;
 
 /* File name : Salary.java */
 public class Salary extends Employee {

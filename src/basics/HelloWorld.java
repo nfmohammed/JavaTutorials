@@ -1,4 +1,4 @@
-package tutorials;
+package basics;
 
 public class HelloWorld {
 	

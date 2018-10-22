@@ -1,4 +1,4 @@
-package tutorials.abga.abstract_class;
+package basics.abga.abstract_class;
 
 //This is a subclass of Parent:AbstractClass
 public class SubClass1 extends AbstractClass {

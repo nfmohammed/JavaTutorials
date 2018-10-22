@@ -1,4 +1,4 @@
-package tutorials.abhb.interfaces_2;
+package basics.abhb.interfaces_2;
 
 /**
  * Created by nmohammed on 2/24/17.

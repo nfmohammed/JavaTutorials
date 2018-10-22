@@ -1,4 +1,4 @@
-package tutorials.abaa.objects;
+package basics.abaa.objects;
 
 import java.awt.Color;
 import java.awt.Graphics;

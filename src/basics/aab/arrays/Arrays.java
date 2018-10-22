@@ -1,4 +1,4 @@
-package tutorials.aab.arrays;
+package basics.aab.arrays;
 
 public class Arrays {
 	

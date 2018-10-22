@@ -1,4 +1,4 @@
-package tutorials.abia.polymorphism;
+package basics.abia.polymorphism;
 
 
 public class TestVirtualMethod {

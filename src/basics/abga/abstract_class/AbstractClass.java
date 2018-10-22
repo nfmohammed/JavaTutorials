@@ -1,4 +1,4 @@
-package tutorials.abga.abstract_class;
+package basics.abga.abstract_class;
 
 //Abstract class cannot be instantiated.
 //The use of abstract class is, we can define some method which an extending class must implement

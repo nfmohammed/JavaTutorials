@@ -1,4 +1,4 @@
-package tutorials.abfb.inheritance_super;
+package basics.abfb.inheritance_super;
 
 public class Child extends Parent {
   int num = 10;

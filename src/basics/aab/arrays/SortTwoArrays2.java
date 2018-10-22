@@ -1,4 +1,4 @@
-package tutorials.aab.arrays;
+package basics.aab.arrays;
 import java.util.Arrays;
 
 //Second method of sorting two arrays of different size is two start from the right most side of Array a and iterate backward.

@@ -1,4 +1,4 @@
-package tutorials.abhb.interfaces_2;
+package basics.abhb.interfaces_2;
 
 
 public class FootballImpl implements Football {

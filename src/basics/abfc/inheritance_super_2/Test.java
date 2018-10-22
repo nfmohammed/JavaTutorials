@@ -1,4 +1,4 @@
-package tutorials.abfc.inheritance_super_2;
+package basics.abfc.inheritance_super_2;
 
 /**
  * Created by nmohammed on 2/24/17.

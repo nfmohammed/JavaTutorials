@@ -1,4 +1,4 @@
-package tutorials.abda.access_modifiers;
+package basics.abda.access_modifiers;
 
 public class AccessModifiers {
 	//private is most restrictive

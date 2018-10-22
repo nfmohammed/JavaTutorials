@@ -1,4 +1,4 @@
-package tutorials.abga.abstract_class;
+package basics.abga.abstract_class;
 
 public class SubClass2 extends AbstractClass {
 

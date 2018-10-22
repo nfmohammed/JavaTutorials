@@ -14,6 +14,10 @@ import java.util.Hashtable;
 
 public class MyHashTable {
 	public static void main(String[] args) {
+		// Note: Hashtable is legacy java code. 
+		// There is nothing in Hashtable that can't be done using HashMap
+		// Always use HashMap if working on non-threaded application
+		// If using threaded application then use Collections.synchronizationMap(myHashMap)
 		Hashtable<String,Integer> hashTable = new Hashtable<String,Integer>();
 		hashTable.put("One", 1); //Key = One and Value = 1
 		hashTable.put("Two", 2);

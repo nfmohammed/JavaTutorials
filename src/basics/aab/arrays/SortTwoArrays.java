@@ -1,4 +1,4 @@
-package tutorials.aab.arrays;
+package basics.aab.arrays;
 import java.util.Arrays;
 
 /*Give 2 arrays of size 7 and 3 which are sorted such that the last 3 blocks in first array are empty, merge the arrays in a sorted manner in the most efficient way.

@@ -1,6 +1,6 @@
-package tutorials.abca.methods;
+package basics.abca.methods;
 
-import tutorials.abba.classes_objects.Person;
+import basics.abba.classes_objects.Person;
 
 public class Methods {
 

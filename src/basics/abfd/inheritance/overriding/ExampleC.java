@@ -1,4 +1,4 @@
-package tutorials.abfd.inheritance.overriding;
+package basics.abfd.inheritance.overriding;
 
 class AnimalC {
   public void move() {

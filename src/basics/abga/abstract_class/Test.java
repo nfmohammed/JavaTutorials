@@ -1,4 +1,4 @@
-package tutorials.abga.abstract_class;
+package basics.abga.abstract_class;
 
 /**
  * Created by nmohammed on 2/24/17.

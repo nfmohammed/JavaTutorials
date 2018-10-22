@@ -1,4 +1,4 @@
-package tutorials.abaa.objects;
+package basics.abaa.objects;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 

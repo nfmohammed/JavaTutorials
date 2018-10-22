@@ -1,4 +1,4 @@
-package tutorials.abha.interfaces;
+package basics.abha.interfaces;
 
 /**
  * Created by nmohammed on 2/24/17.

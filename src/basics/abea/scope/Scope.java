@@ -1,4 +1,4 @@
-package tutorials.abea.scope;
+package basics.abea.scope;
 
 public class Scope {
 	
