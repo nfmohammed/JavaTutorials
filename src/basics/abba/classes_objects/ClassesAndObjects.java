@@ -29,7 +29,7 @@ public class ClassesAndObjects {
 		
 		
 		//Defining Getters and Setters
-		//The good practise to use Class fields to thru getters and setters
+		//The good practise to use Class fields thru getters and setters
 		//Go to Source > Generate Getters and Setters
 		
 		Person shashi = new Person();

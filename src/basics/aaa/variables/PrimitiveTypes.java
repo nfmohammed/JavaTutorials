@@ -38,6 +38,10 @@ public class PrimitiveTypes {
 		// if you try to change, the compiler will give error
 		final double pi = 3.14159;
 
+		//Memory Allocation:
+		//All primitive types data are created in stack and not in heap. 
+		//All java objects are created inside Java Heap.
+
 		System.out.println("done");
 
 	}

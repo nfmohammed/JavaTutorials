@@ -10,10 +10,8 @@ b[3] = [1,3,7]*/
 public class SortTwoArrays2 {
 	
 	public static void main(String[] args){
-	int[] a = new int[7];
-	a[0] = 4;a[1]=10;a[2]=11;a[3]=20;
-	int[] b = new int[3];
-	b[0]=1;b[1]=3;b[2]=7;
+	int[] a = {4, 10, 11, 20, 0, 0, 0};
+	int[] b = {1, 3, 7};
 	int alen = a.length;
 	int blen = b.length;
 	

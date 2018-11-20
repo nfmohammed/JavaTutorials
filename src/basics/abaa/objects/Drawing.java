@@ -14,7 +14,7 @@ public class Drawing extends JFrame {
 		new Drawing();
 	}
 	
-	public Drawing(){
+	public Drawing() {
 		setSize(500, 500);
 		setVisible(true);
 		System.out.println("Constructor has run");

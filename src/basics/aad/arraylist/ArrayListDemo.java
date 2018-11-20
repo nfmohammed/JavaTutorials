@@ -5,19 +5,6 @@ import java.util.Arrays;
 
 
 public class ArrayListDemo {
-	
-	
-	public static ArrayList<String> mergeString(String[] s1, String[] s2){
-		ArrayList<String> myList = new ArrayList<String>();
-		
-		for(String s:s1) myList.add(s);
-		for(String s:s2) myList.add(s);
-		
-		return myList;
-		
-	}
-	
-
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		String[] string1 = {"HIE","Dogiie","Rock"};
@@ -30,6 +17,13 @@ public class ArrayListDemo {
 		List<String> colorsList = Arrays.asList(colors);
 		System.out.println(colorsList);
  		
+	}
+
+	public static ArrayList<String> mergeString(String[] s1, String[] s2){
+		ArrayList<String> myList = new ArrayList<String>();
+		for(String s:s1) myList.add(s);
+		for(String s:s2) myList.add(s);
+		return myList;
 	}
 
 }
