@@ -1,4 +1,4 @@
-package basics;
+package basics.abja;
 
 import basics.abba.classes_objects.Person;
 
