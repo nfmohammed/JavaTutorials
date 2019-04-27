@@ -1,4 +1,4 @@
-package basics.aaf.linkedlist;
+package datastructures.linkedlist;
 
 public class MyLink {
 	

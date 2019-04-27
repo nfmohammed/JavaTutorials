@@ -1,4 +1,4 @@
-package basics.aaf.linkedlist;
+package datastructures.linkedlist;
 //https://www.youtube.com/watch?v=195KUinjBpU
 //In this lesson, each link consists of BookName and NumberOfMillions sold.
 
