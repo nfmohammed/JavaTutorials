@@ -3,7 +3,7 @@ package interview.queuesUsingStack;
 import java.util.Stack;
 import java.util.regex.*;
 
-//https://www.youtube.com/watch?v=7ArHz8jPglw&list=PLI1t_8YX-Apv-UiRlnZwqqrRT8D1RhriX&index=2
+
 public class Solution {
     
     public static class TwoStackQueue<T> {
