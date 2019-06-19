@@ -5,4 +5,5 @@
 
 - Solution: 
     1: If the node is modifiable then each node can be marked as visited. This is simple solution.
-    2: If the node is not-modifiable then we can have 2 pointers that iterate through the linked-list at different speeds. If there is a cycle, then the two pointers will collide at some point. Different speed is achieved by moving one pointer by 1 step and other pointer by 2 steps. 
+    2: If the node is not-modifiable then we can have 2 pointers that iterate through the linked-list at different speeds. If there is a cycle, then the two pointers will collide at some point. Different speed is achieved by moving one pointer by 1 step and other pointer by 2 steps.
+    3: In a cycle, the next address of any two nodes will be same. So, storing address of every node in a set and checking if a node already exists while iterating through nodeList.
